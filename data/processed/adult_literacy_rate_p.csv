@@ -1,0 +1,949 @@
+country,code,year,adult_literacy
+Afghanistan,AFG,1979,18.0
+Afghanistan,AFG,2011,31.0
+Afghanistan,AFG,2015,33.75384
+Afghanistan,AFG,2021,37.0
+Albania,ALB,2001,99.0
+Albania,ALB,2008,96.0
+Albania,ALB,2011,97.0
+Albania,ALB,2012,97.0
+Albania,ALB,2017,98.81623
+Algeria,DZA,1987,50.0
+Algeria,DZA,2002,70.0
+Algeria,DZA,2006,73.0
+Algeria,DZA,2008,75.0
+American Samoa,ASM,1980,97.0
+Angola,AGO,2001,67.0
+Angola,AGO,2014,66.0
+Angola,AGO,2015,66.23586
+Anguilla,AIA,1984,95.0
+Antigua and Barbuda,ATG,2001,99.0
+Argentina,ARG,1980,94.0
+Argentina,ARG,1991,96.0
+Argentina,ARG,2001,97.0
+Armenia,ARM,1989,99.0
+Armenia,ARM,2001,99.0
+Armenia,ARM,2011,100.0
+Armenia,ARM,2016,100.0
+Armenia,ARM,2017,100.0
+Armenia,ARM,2020,100.0
+Armenia,ARM,2022,99.825
+Aruba,ABW,2000,97.0
+Aruba,ABW,2010,97.0
+Azerbaijan,AZE,1999,99.0
+Azerbaijan,AZE,2007,100.0
+Azerbaijan,AZE,2009,100.0
+Azerbaijan,AZE,2010,100.0
+Azerbaijan,AZE,2011,100.0
+Azerbaijan,AZE,2012,100.0
+Azerbaijan,AZE,2013,100.0
+Azerbaijan,AZE,2014,100.0
+Azerbaijan,AZE,2015,100.0
+Azerbaijan,AZE,2016,100.0
+Azerbaijan,AZE,2017,100.0
+Azerbaijan,AZE,2019,100.0
+Azerbaijan,AZE,2023,100.0
+Bahrain,BHR,1981,70.0
+Bahrain,BHR,1991,84.0
+Bahrain,BHR,2001,87.0
+Bahrain,BHR,2022,98.0
+Bahrain,BHR,2023,98.0
+Bangladesh,BGD,1981,29.0
+Bangladesh,BGD,1991,35.0
+Bangladesh,BGD,2001,47.0
+Bangladesh,BGD,2011,59.0
+Bangladesh,BGD,2012,58.0
+Bangladesh,BGD,2013,61.0
+Bangladesh,BGD,2014,61.0
+Bangladesh,BGD,2015,65.0
+Bangladesh,BGD,2016,73.0
+Bangladesh,BGD,2017,73.0
+Bangladesh,BGD,2018,74.0
+Bangladesh,BGD,2019,75.0
+Bangladesh,BGD,2020,75.0
+Bangladesh,BGD,2021,76.0
+Bangladesh,BGD,2022,79.0
+Barbados,BRB,1970,99.0
+Belarus,BLR,1989,98.0
+Belarus,BLR,1999,100.0
+Belarus,BLR,2009,100.0
+Belarus,BLR,2019,100.0
+Belize,BLZ,1991,70.0
+Belize,BLZ,2015,90.91604
+Benin,BEN,1979,16.0
+Benin,BEN,1992,27.0
+Benin,BEN,2002,35.0
+Benin,BEN,2017,38.87121
+Benin,BEN,2019,48.99828
+Benin,BEN,2021,43.83417
+Benin,BEN,2022,51.37877
+Bhutan,BTN,2005,53.0
+Bhutan,BTN,2012,55.0
+Bhutan,BTN,2017,67.0
+Bolivia,BOL,1976,63.0
+Bolivia,BOL,1992,80.0
+Bolivia,BOL,2001,87.0
+Bolivia,BOL,2007,91.0
+Bolivia,BOL,2008,91.0
+Bolivia,BOL,2009,91.0
+Bolivia,BOL,2011,92.0
+Bolivia,BOL,2012,94.0
+Bolivia,BOL,2015,92.0
+Bolivia,BOL,2020,94.0
+Bosnia and Herzegovina,BIH,1991,89.0
+Bosnia and Herzegovina,BIH,2000,97.0
+Bosnia and Herzegovina,BIH,2013,97.0
+Botswana,BWA,1991,69.0
+Botswana,BWA,2003,81.0
+Brazil,BRA,1980,75.0
+Brazil,BRA,2000,86.0
+Brazil,BRA,2004,89.0
+Brazil,BRA,2006,90.0
+Brazil,BRA,2007,90.0
+Brazil,BRA,2008,90.0
+Brazil,BRA,2009,90.0
+Brazil,BRA,2010,90.0
+Brazil,BRA,2011,91.0
+Brazil,BRA,2012,91.0
+Brazil,BRA,2013,91.0
+Brazil,BRA,2014,92.0
+Brazil,BRA,2015,92.0
+Brazil,BRA,2016,93.0
+Brazil,BRA,2017,93.0
+Brazil,BRA,2018,93.0
+Brunei,BRN,1981,78.0
+Brunei,BRN,1991,88.0
+Brunei,BRN,2001,93.0
+Brunei,BRN,2011,96.0
+Bulgaria,BGR,2001,98.0
+Bulgaria,BGR,2011,98.0
+Burkina Faso,BFA,1975,9.0
+Burkina Faso,BFA,1991,14.0
+Burkina Faso,BFA,1996,13.0
+Burkina Faso,BFA,2003,22.0
+Burkina Faso,BFA,2005,24.0
+Burkina Faso,BFA,2006,22.0
+Burkina Faso,BFA,2007,28.0
+Burkina Faso,BFA,2014,35.0
+Burkina Faso,BFA,2018,39.0
+Burkina Faso,BFA,2019,30.0
+Burkina Faso,BFA,2021,36.96738
+Burkina Faso,BFA,2022,40.92361
+Burundi,BDI,1979,23.0
+Burundi,BDI,1990,37.0
+Burundi,BDI,2000,59.0
+Burundi,BDI,2008,48.0
+Burundi,BDI,2014,62.0
+Burundi,BDI,2016,65.68774
+Burundi,BDI,2017,68.0
+Cambodia,KHM,1998,67.0
+Cambodia,KHM,2004,74.0
+Cambodia,KHM,2008,77.0
+Cambodia,KHM,2009,76.0
+Cambodia,KHM,2014,78.0
+Cambodia,KHM,2015,81.0
+Cambodia,KHM,2021,71.92725
+Cameroon,CMR,1976,41.0
+Cameroon,CMR,2000,68.0
+Cameroon,CMR,2007,71.0
+Cameroon,CMR,2010,71.0
+Cameroon,CMR,2018,72.54713
+Cape Verde,CPV,1990,63.0
+Cape Verde,CPV,2012,85.0
+Cape Verde,CPV,2015,87.0
+Cayman Islands,CYM,2007,99.0
+Central African Republic,CAF,1975,18.0
+Central African Republic,CAF,1988,34.0
+Central African Republic,CAF,2000,51.0
+Central African Republic,CAF,2019,42.44279
+Chad,TCD,1993,11.0
+Chad,TCD,2000,26.0
+Chad,TCD,2004,28.0
+Chad,TCD,2016,22.0
+Chad,TCD,2019,30.62792
+Chile,CHL,1982,91.0
+Chile,CHL,1992,94.0
+Chile,CHL,2002,96.0
+Chile,CHL,2011,97.0
+Chile,CHL,2013,96.0
+Chile,CHL,2015,97.0
+Chile,CHL,2017,96.0
+China,CHN,1982,66.0
+China,CHN,1990,78.0
+China,CHN,2000,91.0
+China,CHN,2010,95.0
+China,CHN,2020,97.0
+Colombia,COL,1993,91.0
+Colombia,COL,1996,91.0
+Colombia,COL,2004,93.0
+Colombia,COL,2005,93.0
+Colombia,COL,2006,92.0
+Colombia,COL,2007,93.0
+Colombia,COL,2008,93.0
+Colombia,COL,2009,93.0
+Colombia,COL,2010,93.0
+Colombia,COL,2011,94.0
+Colombia,COL,2014,94.0
+Colombia,COL,2015,94.0
+Colombia,COL,2016,95.0
+Colombia,COL,2018,95.0
+Colombia,COL,2019,95.0
+Colombia,COL,2020,96.0
+Comoros,COM,1980,48.0
+Comoros,COM,2000,68.0
+Congo,COG,1984,60.0
+Congo,COG,2005,76.0
+Costa Rica,CRI,1984,93.0
+Costa Rica,CRI,2000,95.0
+Costa Rica,CRI,2011,97.0
+Cote d'Ivoire,CIV,1988,34.0
+Cote d'Ivoire,CIV,1998,36.0
+Cote d'Ivoire,CIV,2000,49.0
+Cote d'Ivoire,CIV,2014,44.0
+Cote d'Ivoire,CIV,2016,50.03968
+Cote d'Ivoire,CIV,2019,90.0
+Cote d'Ivoire,CIV,2021,50.00064
+Croatia,HRV,1991,97.0
+Croatia,HRV,2001,98.0
+Cuba,CUB,1981,98.0
+Cuba,CUB,2002,100.0
+Cuba,CUB,2012,100.0
+Cuba,CUB,2019,97.65491
+Cyprus,CYP,1992,94.0
+Cyprus,CYP,2001,97.0
+Cyprus,CYP,2011,99.0
+Democratic Republic of Congo,COD,2001,67.0
+Democratic Republic of Congo,COD,2012,75.0
+Democratic Republic of Congo,COD,2016,77.0
+Democratic Republic of Congo,COD,2018,73.55303
+Dominican Republic,DOM,1981,73.0
+Dominican Republic,DOM,2002,87.0
+Dominican Republic,DOM,2007,88.0
+Dominican Republic,DOM,2010,90.0
+Dominican Republic,DOM,2011,90.0
+Dominican Republic,DOM,2012,90.0
+Dominican Republic,DOM,2013,91.0
+Dominican Republic,DOM,2014,92.0
+Dominican Republic,DOM,2015,92.0
+Dominican Republic,DOM,2016,94.0
+East Timor,TLS,2001,38.0
+East Timor,TLS,2007,51.0
+East Timor,TLS,2010,58.0
+East Timor,TLS,2016,65.77913
+Ecuador,ECU,1982,84.0
+Ecuador,ECU,1990,88.0
+Ecuador,ECU,2001,91.0
+Ecuador,ECU,2007,92.0
+Ecuador,ECU,2008,92.0
+Ecuador,ECU,2009,92.0
+Ecuador,ECU,2010,92.0
+Ecuador,ECU,2011,92.0
+Ecuador,ECU,2012,92.0
+Ecuador,ECU,2013,93.0
+Ecuador,ECU,2014,94.0
+Ecuador,ECU,2015,94.0
+Ecuador,ECU,2016,94.0
+Ecuador,ECU,2017,93.0
+Ecuador,ECU,2020,94.0
+Ecuador,ECU,2021,94.0
+Ecuador,ECU,2022,94.0
+Egypt,EGY,1976,38.0
+Egypt,EGY,1986,44.0
+Egypt,EGY,1996,56.0
+Egypt,EGY,2005,67.0
+Egypt,EGY,2006,66.0
+Egypt,EGY,2010,72.0
+Egypt,EGY,2012,74.0
+Egypt,EGY,2013,72.0
+Egypt,EGY,2017,71.0
+El Salvador,SLV,1992,74.0
+El Salvador,SLV,2006,84.0
+El Salvador,SLV,2007,82.0
+El Salvador,SLV,2008,84.0
+El Salvador,SLV,2009,84.0
+El Salvador,SLV,2010,84.0
+El Salvador,SLV,2011,85.0
+El Salvador,SLV,2013,87.0
+El Salvador,SLV,2015,88.0
+El Salvador,SLV,2016,88.0
+El Salvador,SLV,2017,88.0
+El Salvador,SLV,2018,89.0
+El Salvador,SLV,2019,89.0
+El Salvador,SLV,2020,90.0
+El Salvador,SLV,2023,90.0
+Equatorial Guinea,GNQ,2000,88.0
+Eritrea,ERI,2002,53.0
+Eritrea,ERI,2008,65.0
+Estonia,EST,1989,100.0
+Estonia,EST,2000,100.0
+Estonia,EST,2011,100.0
+Eswatini,SWZ,1976,55.0
+Eswatini,SWZ,1986,67.0
+Eswatini,SWZ,2000,82.0
+Eswatini,SWZ,2022,90.74702
+Ethiopia,ETH,1994,27.0
+Ethiopia,ETH,2004,36.0
+Ethiopia,ETH,2007,39.0
+Ethiopia,ETH,2016,47.49159
+French Guiana,GUF,1982,83.0
+Gabon,GAB,1993,72.0
+Gabon,GAB,2021,88.85834
+Gambia,GMB,2000,37.0
+Gambia,GMB,2015,51.0
+Gambia,GMB,2018,53.1602
+Gambia,GMB,2021,51.6374
+Georgia,GEO,2002,100.0
+Georgia,GEO,2014,100.0
+Georgia,GEO,2017,99.0
+Georgia,GEO,2018,99.65366
+Georgia,GEO,2022,100.0
+Georgia,GEO,2023,99.55547
+Ghana,GHA,2000,58.0
+Ghana,GHA,2010,71.0
+Ghana,GHA,2017,64.49239
+Ghana,GHA,2021,76.48568
+Greece,GRC,1981,91.0
+Greece,GRC,1991,93.0
+Greece,GRC,2001,96.0
+Greece,GRC,2009,94.0
+Grenada,GRD,1970,98.0
+Guadeloupe,GLP,1982,90.0
+Guam,GUM,1980,96.0
+Guam,GUM,1990,99.0
+Guatemala,GTM,1994,64.0
+Guatemala,GTM,2002,69.0
+Guatemala,GTM,2012,78.0
+Guatemala,GTM,2013,77.0
+Guatemala,GTM,2014,81.0
+Guatemala,GTM,2015,80.19509
+Guatemala,GTM,2018,81.0
+Guatemala,GTM,2022,83.03117
+Guinea,GIN,1996,21.0
+Guinea,GIN,2003,30.0
+Guinea,GIN,2010,25.0
+Guinea,GIN,2014,32.0
+Guinea,GIN,2018,40.0
+Guinea-Bissau,GNB,1979,20.0
+Guinea-Bissau,GNB,2000,41.0
+Guinea-Bissau,GNB,2019,54.88232
+Guinea-Bissau,GNB,2022,63.93413
+Guyana,GUY,2020,85.63835
+Haiti,HTI,1982,35.0
+Haiti,HTI,2003,59.0
+Haiti,HTI,2017,68.00986
+Honduras,HND,2001,80.0
+Honduras,HND,2007,84.0
+Honduras,HND,2010,85.0
+Honduras,HND,2011,85.0
+Honduras,HND,2012,85.0
+Honduras,HND,2013,85.0
+Honduras,HND,2014,87.0
+Honduras,HND,2015,88.0
+Honduras,HND,2016,89.0
+Honduras,HND,2018,87.0
+Honduras,HND,2019,89.0
+Hungary,HUN,1980,99.0
+India,IND,1981,41.0
+India,IND,1991,48.0
+India,IND,2001,61.0
+India,IND,2006,63.0
+India,IND,2011,69.0
+India,IND,2022,76.0
+India,IND,2023,82.0
+Indonesia,IDN,1980,67.0
+Indonesia,IDN,1990,82.0
+Indonesia,IDN,2004,90.0
+Indonesia,IDN,2006,92.0
+Indonesia,IDN,2008,92.0
+Indonesia,IDN,2009,93.0
+Indonesia,IDN,2011,93.0
+Indonesia,IDN,2014,95.0
+Indonesia,IDN,2015,95.0
+Indonesia,IDN,2016,95.0
+Indonesia,IDN,2018,96.0
+Indonesia,IDN,2020,96.0
+Iran,IRN,1976,37.0
+Iran,IRN,1986,52.0
+Iran,IRN,1991,66.0
+Iran,IRN,1996,73.0
+Iran,IRN,2002,77.0
+Iran,IRN,2005,82.0
+Iran,IRN,2006,82.0
+Iran,IRN,2008,83.0
+Iran,IRN,2012,84.0
+Iran,IRN,2013,85.0
+Iran,IRN,2014,85.0
+Iran,IRN,2016,86.0
+Iraq,IRQ,2000,74.0
+Iraq,IRQ,2012,77.0
+Iraq,IRQ,2014,82.0
+Iraq,IRQ,2016,83.0
+Iraq,IRQ,2017,86.0
+Israel,ISR,1983,92.0
+Italy,ITA,1981,96.0
+Italy,ITA,2001,98.0
+Italy,ITA,2011,99.0
+Italy,ITA,2019,99.0
+Jamaica,JAM,1999,80.0
+Jordan,JOR,1979,67.0
+Jordan,JOR,2003,90.0
+Jordan,JOR,2005,91.0
+Jordan,JOR,2007,92.0
+Jordan,JOR,2010,93.0
+Jordan,JOR,2011,96.0
+Jordan,JOR,2012,98.0
+Jordan,JOR,2018,95.43145
+Jordan,JOR,2023,95.0
+Kazakhstan,KAZ,1989,98.0
+Kazakhstan,KAZ,1999,100.0
+Kazakhstan,KAZ,2009,100.0
+Kenya,KEN,2000,82.0
+Kiribati,KIR,2018,97.95971
+Kuwait,KWT,1975,60.0
+Kuwait,KWT,1980,68.0
+Kuwait,KWT,1985,74.0
+Kuwait,KWT,1995,78.0
+Kuwait,KWT,2005,93.0
+Kuwait,KWT,2006,93.0
+Kuwait,KWT,2007,94.0
+Kuwait,KWT,2008,94.0
+Kuwait,KWT,2010,94.0
+Kuwait,KWT,2012,96.0
+Kuwait,KWT,2013,96.0
+Kuwait,KWT,2015,96.0
+Kuwait,KWT,2017,96.0
+Kuwait,KWT,2018,96.0
+Kuwait,KWT,2020,96.0
+Kyrgyzstan,KGZ,1999,99.0
+Kyrgyzstan,KGZ,2009,99.0
+Laos,LAO,1995,60.0
+Laos,LAO,2000,70.0
+Laos,LAO,2001,69.0
+Laos,LAO,2005,73.0
+Laos,LAO,2015,85.0
+Latvia,LVA,1989,99.0
+Latvia,LVA,2000,100.0
+Latvia,LVA,2011,100.0
+Lebanon,LBN,2007,90.0
+Lebanon,LBN,2009,91.0
+Lebanon,LBN,2018,93.0
+Lesotho,LSO,2000,86.0
+Lesotho,LSO,2006,66.0
+Lesotho,LSO,2016,97.0
+Lesotho,LSO,2018,86.24087
+Liberia,LBR,1984,32.0
+Libya,LBY,1984,60.0
+Lithuania,LTU,1989,98.0
+Lithuania,LTU,2001,100.0
+Lithuania,LTU,2011,100.0
+Macao,MAC,1981,90.0
+Macao,MAC,2001,91.0
+Macao,MAC,2006,93.0
+Macao,MAC,2011,96.0
+Macao,MAC,2016,97.0
+Madagascar,MDG,2000,71.0
+Madagascar,MDG,2005,59.0
+Madagascar,MDG,2012,72.0
+Madagascar,MDG,2018,77.0
+Madagascar,MDG,2021,74.68614
+Malawi,MWI,1987,49.0
+Malawi,MWI,1998,64.0
+Malawi,MWI,2020,70.15227
+Malaysia,MYS,1980,70.0
+Malaysia,MYS,1991,83.0
+Malaysia,MYS,2000,89.0
+Malaysia,MYS,2010,93.0
+Malaysia,MYS,2016,95.0
+Malaysia,MYS,2017,95.0
+Malaysia,MYS,2018,95.0
+Malaysia,MYS,2019,95.0
+Malaysia,MYS,2022,96.0
+Maldives,MDV,1977,82.0
+Maldives,MDV,1985,92.0
+Maldives,MDV,1990,96.0
+Maldives,MDV,1995,96.0
+Maldives,MDV,2000,96.0
+Maldives,MDV,2006,98.0
+Maldives,MDV,2014,99.0
+Maldives,MDV,2016,98.0
+Maldives,MDV,2017,94.50551
+Maldives,MDV,2019,98.21186
+Mali,MLI,1976,9.0
+Mali,MLI,1998,19.0
+Mali,MLI,2003,24.0
+Mali,MLI,2006,26.0
+Mali,MLI,2010,31.0
+Mali,MLI,2011,31.0
+Mali,MLI,2015,33.0
+Mali,MLI,2018,35.0
+Malta,MLT,1985,87.0
+Malta,MLT,1995,88.0
+Malta,MLT,2005,92.0
+Malta,MLT,2011,93.0
+Marshall Islands,MHL,2011,98.0
+Martinique,MTQ,1982,93.0
+Mauritania,MRT,2000,51.0
+Mauritania,MRT,2013,62.0
+Mauritania,MRT,2015,65.11202
+Mauritania,MRT,2020,59.52966
+Mauritius,MUS,1990,80.0
+Mauritius,MUS,2000,84.0
+Mauritius,MUS,2011,89.0
+Mauritius,MUS,2012,92.0
+Mauritius,MUS,2013,91.0
+Mauritius,MUS,2014,92.0
+Mauritius,MUS,2015,93.0
+Mauritius,MUS,2016,93.0
+Mexico,MEX,1980,83.0
+Mexico,MEX,1990,88.0
+Mexico,MEX,2000,91.0
+Mexico,MEX,2002,90.0
+Mexico,MEX,2004,91.0
+Mexico,MEX,2005,92.0
+Mexico,MEX,2006,92.0
+Mexico,MEX,2007,93.0
+Mexico,MEX,2008,93.0
+Mexico,MEX,2009,93.0
+Mexico,MEX,2010,93.0
+Mexico,MEX,2011,94.0
+Mexico,MEX,2012,94.0
+Mexico,MEX,2013,94.0
+Mexico,MEX,2014,95.0
+Mexico,MEX,2015,94.0
+Mexico,MEX,2016,95.0
+Mexico,MEX,2017,95.0
+Mexico,MEX,2018,95.0
+Mexico,MEX,2020,95.0
+Moldova,MDA,1989,96.0
+Moldova,MDA,2000,97.0
+Moldova,MDA,2014,99.0
+Mongolia,MNG,2000,98.0
+Mongolia,MNG,2010,98.0
+Mongolia,MNG,2018,96.89635
+Mongolia,MNG,2020,99.0
+Mongolia,MNG,2022,98.72622
+Montenegro,MNE,1981,90.0
+Montenegro,MNE,1991,93.0
+Montenegro,MNE,2003,98.0
+Montenegro,MNE,2011,98.0
+Montenegro,MNE,2018,98.5344
+Morocco,MAR,1982,30.0
+Morocco,MAR,1994,42.0
+Morocco,MAR,2004,52.0
+Morocco,MAR,2008,55.0
+Morocco,MAR,2009,56.0
+Morocco,MAR,2011,67.0
+Morocco,MAR,2012,69.0
+Morocco,MAR,2014,76.0
+Mozambique,MOZ,1980,27.0
+Mozambique,MOZ,1997,39.0
+Mozambique,MOZ,2003,48.0
+Mozambique,MOZ,2009,51.0
+Mozambique,MOZ,2015,56.0
+Mozambique,MOZ,2017,61.0
+Mozambique,MOZ,2020,60.0
+Myanmar,MMR,1983,79.0
+Myanmar,MMR,2000,90.0
+Myanmar,MMR,2014,90.0
+Myanmar,MMR,2019,89.0
+Namibia,NAM,1991,76.0
+Namibia,NAM,2001,85.0
+Namibia,NAM,2011,88.0
+Nauru,NRU,2023,96.58654
+Nepal,NPL,1981,21.0
+Nepal,NPL,1991,33.0
+Nepal,NPL,2001,49.0
+Nepal,NPL,2011,60.0
+Nepal,NPL,2016,65.50101
+Nepal,NPL,2019,68.7125
+New Caledonia,NCL,1976,91.0
+New Caledonia,NCL,1989,93.0
+New Caledonia,NCL,1996,96.0
+Nicaragua,NIC,2001,77.0
+Nicaragua,NIC,2005,78.0
+Niger,NER,2001,14.0
+Niger,NER,2005,29.0
+Niger,NER,2012,31.0
+Niger,NER,2018,33.04745
+Niger,NER,2022,35.60971
+Nigeria,NGA,1991,55.0
+Nigeria,NGA,2003,55.0
+Nigeria,NGA,2006,70.0
+Nigeria,NGA,2016,58.22134
+Nigeria,NGA,2021,63.15554
+North Korea,PRK,2008,100.0
+North Macedonia,MKD,1994,94.0
+North Macedonia,MKD,2002,96.0
+Oman,OMN,2003,66.0
+Oman,OMN,2008,87.0
+Oman,OMN,2010,87.0
+Oman,OMN,2015,93.0
+Oman,OMN,2017,96.0
+Oman,OMN,2018,96.0
+Oman,OMN,2020,97.0
+Oman,OMN,2022,97.0
+Pakistan,PAK,1981,26.0
+Pakistan,PAK,1998,43.0
+Pakistan,PAK,2005,50.0
+Pakistan,PAK,2006,54.0
+Pakistan,PAK,2007,52.0
+Pakistan,PAK,2008,56.0
+Pakistan,PAK,2009,55.0
+Pakistan,PAK,2010,55.0
+Pakistan,PAK,2011,55.0
+Pakistan,PAK,2012,57.0
+Pakistan,PAK,2013,56.0
+Pakistan,PAK,2014,57.0
+Pakistan,PAK,2017,59.0
+Pakistan,PAK,2018,57.0
+Pakistan,PAK,2019,58.0
+Pakistan,PAK,2021,58.8561
+Palau,PLW,1980,92.0
+Palau,PLW,2013,100.0
+Palau,PLW,2015,97.0
+Palestine,PSE,1997,86.0
+Palestine,PSE,2004,92.0
+Palestine,PSE,2006,93.0
+Palestine,PSE,2007,94.0
+Palestine,PSE,2008,94.0
+Palestine,PSE,2009,94.0
+Palestine,PSE,2010,95.0
+Palestine,PSE,2011,95.0
+Palestine,PSE,2012,96.0
+Palestine,PSE,2013,96.0
+Palestine,PSE,2014,96.0
+Palestine,PSE,2015,96.0
+Palestine,PSE,2016,97.0
+Palestine,PSE,2017,97.0
+Palestine,PSE,2018,97.0
+Palestine,PSE,2019,97.0
+Palestine,PSE,2020,98.0
+Palestine,PSE,2022,98.0
+Panama,PAN,1980,88.0
+Panama,PAN,1990,89.0
+Panama,PAN,2000,92.0
+Panama,PAN,2010,94.0
+Panama,PAN,2018,95.0
+Panama,PAN,2019,96.0
+Papua New Guinea,PNG,2000,57.0
+Papua New Guinea,PNG,2017,70.06368
+Paraguay,PRY,1982,78.0
+Paraguay,PRY,1992,90.0
+Paraguay,PRY,2007,95.0
+Paraguay,PRY,2008,93.0
+Paraguay,PRY,2009,94.0
+Paraguay,PRY,2010,94.0
+Paraguay,PRY,2012,94.0
+Paraguay,PRY,2013,95.0
+Paraguay,PRY,2014,95.0
+Paraguay,PRY,2015,96.0
+Paraguay,PRY,2016,95.0
+Paraguay,PRY,2018,94.0
+Paraguay,PRY,2019,93.0
+Paraguay,PRY,2020,95.0
+Peru,PER,1981,82.0
+Peru,PER,1993,87.0
+Peru,PER,2004,88.0
+Peru,PER,2005,88.0
+Peru,PER,2006,89.0
+Peru,PER,2007,90.0
+Peru,PER,2012,94.0
+Peru,PER,2014,94.0
+Peru,PER,2015,94.0
+Peru,PER,2016,94.0
+Peru,PER,2017,94.0
+Peru,PER,2018,94.0
+Peru,PER,2020,94.0
+Philippines,PHL,1980,83.0
+Philippines,PHL,1990,94.0
+Philippines,PHL,1994,94.0
+Philippines,PHL,2000,93.0
+Philippines,PHL,2003,93.0
+Philippines,PHL,2008,95.0
+Philippines,PHL,2013,96.0
+Philippines,PHL,2015,98.0
+Philippines,PHL,2019,96.0
+Philippines,PHL,2020,98.0
+Poland,POL,1978,99.0
+Portugal,PRT,1981,79.0
+Portugal,PRT,1991,88.0
+Portugal,PRT,2011,94.0
+Puerto Rico,PRI,1980,87.0
+Puerto Rico,PRI,1990,90.0
+Puerto Rico,PRI,2010,92.0
+Puerto Rico,PRI,2017,92.0
+Qatar,QAT,1986,76.0
+Qatar,QAT,1997,83.0
+Qatar,QAT,2004,89.0
+Qatar,QAT,2007,93.0
+Qatar,QAT,2008,94.0
+Qatar,QAT,2009,95.0
+Qatar,QAT,2010,96.0
+Qatar,QAT,2011,96.0
+Qatar,QAT,2012,97.0
+Qatar,QAT,2013,97.0
+Qatar,QAT,2014,98.0
+Reunion,REU,1982,79.0
+Romania,ROU,1992,97.0
+Romania,ROU,2002,97.0
+Romania,ROU,2011,99.0
+Romania,ROU,2021,99.0
+Russia,RUS,1989,98.0
+Russia,RUS,2002,99.0
+Russia,RUS,2010,100.0
+Russia,RUS,2021,100.0
+Rwanda,RWA,1978,38.0
+Rwanda,RWA,1991,58.0
+Rwanda,RWA,2000,65.0
+Rwanda,RWA,2012,68.0
+Rwanda,RWA,2014,71.0
+Rwanda,RWA,2018,73.0
+Rwanda,RWA,2020,80.05086
+Rwanda,RWA,2022,79.0
+Saint Helena,SHN,1998,97.0
+Saint Pierre and Miquelon,SPM,1982,99.0
+Saint Vincent and the Grenadines,VCT,1970,96.0
+Samoa,WSM,1991,98.0
+Samoa,WSM,2011,99.0
+Samoa,WSM,2016,99.0
+Samoa,WSM,2019,97.99026
+San Marino,SMR,2022,100.0
+Sao Tome and Principe,STP,1981,57.0
+Sao Tome and Principe,STP,1991,73.0
+Sao Tome and Principe,STP,2001,85.0
+Sao Tome and Principe,STP,2012,90.0
+Sao Tome and Principe,STP,2019,87.43846
+Saudi Arabia,SAU,1992,71.0
+Saudi Arabia,SAU,2000,79.0
+Saudi Arabia,SAU,2004,83.0
+Saudi Arabia,SAU,2013,94.0
+Saudi Arabia,SAU,2017,95.0
+Saudi Arabia,SAU,2020,98.0
+Senegal,SEN,1988,27.0
+Senegal,SEN,2002,39.0
+Senegal,SEN,2006,42.0
+Senegal,SEN,2009,48.0
+Senegal,SEN,2011,52.0
+Senegal,SEN,2013,44.0
+Senegal,SEN,2015,43.59273
+Senegal,SEN,2016,46.09964
+Senegal,SEN,2017,52.0
+Senegal,SEN,2018,46.60591
+Senegal,SEN,2019,46.83367
+Senegal,SEN,2023,50.35582
+Serbia,SRB,2003,96.0
+Serbia,SRB,2011,98.0
+Serbia,SRB,2016,99.0
+Serbia,SRB,2019,99.0
+Seychelles,SYC,1987,84.0
+Seychelles,SYC,1994,88.0
+Seychelles,SYC,2002,92.0
+Seychelles,SYC,2010,94.0
+Sierra Leone,SLE,2004,35.0
+Sierra Leone,SLE,2017,44.83318
+Sierra Leone,SLE,2019,43.57778
+Singapore,SGP,1980,83.0
+Singapore,SGP,1990,89.0
+Singapore,SGP,2000,93.0
+Singapore,SGP,2010,96.0
+Singapore,SGP,2011,96.0
+Singapore,SGP,2012,96.0
+Singapore,SGP,2013,97.0
+Singapore,SGP,2014,97.0
+Singapore,SGP,2015,97.0
+Singapore,SGP,2016,97.0
+Singapore,SGP,2017,97.0
+Singapore,SGP,2018,97.0
+Singapore,SGP,2019,97.0
+Singapore,SGP,2020,97.0
+Singapore,SGP,2021,98.0
+Slovenia,SVN,1991,100.0
+Solomon Islands,SLB,1999,77.0
+Somalia,SOM,2022,54.0
+South Africa,ZAF,1980,76.0
+South Africa,ZAF,1996,82.0
+South Africa,ZAF,2007,89.0
+South Africa,ZAF,2009,93.0
+South Africa,ZAF,2010,93.0
+South Africa,ZAF,2011,93.0
+South Africa,ZAF,2012,94.0
+South Africa,ZAF,2014,94.0
+South Africa,ZAF,2015,94.0
+South Africa,ZAF,2016,91.73724
+South Africa,ZAF,2017,87.0
+South Africa,ZAF,2019,95.0
+South Africa,ZAF,2021,90.0
+South Korea,KOR,2008,98.0
+South Sudan,SSD,2008,27.0
+Spain,ESP,1981,93.0
+Spain,ESP,1991,96.0
+Spain,ESP,2004,97.0
+Spain,ESP,2005,98.0
+Spain,ESP,2006,98.0
+Spain,ESP,2007,98.0
+Spain,ESP,2008,98.0
+Spain,ESP,2009,98.0
+Spain,ESP,2010,98.0
+Spain,ESP,2011,98.0
+Spain,ESP,2012,98.0
+Spain,ESP,2013,98.0
+Spain,ESP,2014,98.0
+Spain,ESP,2015,98.0
+Spain,ESP,2016,98.0
+Spain,ESP,2018,98.0
+Spain,ESP,2020,99.0
+Spain,ESP,2021,100.0
+Sri Lanka,LKA,1981,87.0
+Sri Lanka,LKA,2001,91.0
+Sri Lanka,LKA,2006,91.0
+Sri Lanka,LKA,2008,91.0
+Sri Lanka,LKA,2010,91.0
+Sri Lanka,LKA,2016,92.0
+Sri Lanka,LKA,2017,92.0
+Sri Lanka,LKA,2018,92.0
+Sri Lanka,LKA,2019,92.0
+Sri Lanka,LKA,2020,92.0
+Sri Lanka,LKA,2021,92.0
+Sri Lanka,LKA,2022,92.0
+Sri Lanka,LKA,2023,93.0
+Sudan,SDN,2000,61.0
+Sudan,SDN,2008,54.0
+Suriname,SUR,2004,90.0
+Suriname,SUR,2008,95.0
+Suriname,SUR,2010,95.0
+Suriname,SUR,2012,93.0
+Syria,SYR,1981,56.0
+Syria,SYR,2002,83.0
+Syria,SYR,2004,81.0
+Syria,SYR,2021,94.0
+Tajikistan,TJK,1989,98.0
+Tajikistan,TJK,2000,99.0
+Tanzania,TZA,1988,59.0
+Tanzania,TZA,2002,69.0
+Tanzania,TZA,2012,78.0
+Tanzania,TZA,2015,78.0
+Thailand,THA,1980,88.0
+Thailand,THA,2000,93.0
+Thailand,THA,2005,94.0
+Thailand,THA,2010,96.0
+Thailand,THA,2013,94.0
+Thailand,THA,2015,93.0
+Thailand,THA,2016,91.9814
+Thailand,THA,2018,94.0
+Thailand,THA,2019,91.26915
+Thailand,THA,2022,91.09987
+Togo,TGO,2000,53.0
+Togo,TGO,2006,57.0
+Togo,TGO,2009,57.0
+Togo,TGO,2011,60.0
+Togo,TGO,2015,64.0
+Togo,TGO,2019,67.0
+Togo,TGO,2022,72.59589
+Tonga,TON,1976,100.0
+Tonga,TON,1996,99.0
+Tonga,TON,2006,99.0
+Tonga,TON,2011,99.0
+Tonga,TON,2016,97.0
+Tonga,TON,2019,91.05162
+Trinidad and Tobago,TTO,1980,95.0
+Trinidad and Tobago,TTO,1990,97.0
+Tunisia,TUN,1984,48.0
+Tunisia,TUN,2004,74.0
+Tunisia,TUN,2007,77.0
+Tunisia,TUN,2008,78.0
+Tunisia,TUN,2010,79.0
+Tunisia,TUN,2011,80.0
+Tunisia,TUN,2012,80.0
+Tunisia,TUN,2014,79.0
+Tunisia,TUN,2018,79.47511
+Tunisia,TUN,2019,81.0
+Tunisia,TUN,2021,83.68263
+Tunisia,TUN,2023,86.24682
+Turkey,TUR,1975,62.0
+Turkey,TUR,1980,66.0
+Turkey,TUR,1985,76.0
+Turkey,TUR,1990,79.0
+Turkey,TUR,2004,87.0
+Turkey,TUR,2005,88.0
+Turkey,TUR,2006,88.0
+Turkey,TUR,2007,89.0
+Turkey,TUR,2009,91.0
+Turkey,TUR,2010,93.0
+Turkey,TUR,2011,94.0
+Turkey,TUR,2012,95.0
+Turkey,TUR,2013,95.0
+Turkey,TUR,2014,95.0
+Turkey,TUR,2015,96.0
+Turkey,TUR,2016,96.0
+Turkey,TUR,2017,96.0
+Turkey,TUR,2019,97.0
+Turkey,TUR,2021,97.0
+Turkmenistan,TKM,1995,99.0
+Uganda,UGA,1991,56.0
+Uganda,UGA,2002,68.0
+Uganda,UGA,2006,71.0
+Uganda,UGA,2010,73.0
+Uganda,UGA,2012,70.0
+Uganda,UGA,2016,69.10132
+Ukraine,UKR,2001,99.0
+United Arab Emirates,ARE,1975,54.0
+United Arab Emirates,ARE,1985,71.0
+United Arab Emirates,ARE,2005,90.0
+United Arab Emirates,ARE,2019,98.0
+United Arab Emirates,ARE,2021,98.0
+United Arab Emirates,ARE,2022,98.0
+United Arab Emirates,ARE,2023,98.0
+Uruguay,URY,1975,94.0
+Uruguay,URY,1985,95.0
+Uruguay,URY,1996,97.0
+Uruguay,URY,2006,98.0
+Uruguay,URY,2007,98.0
+Uruguay,URY,2008,98.0
+Uruguay,URY,2009,98.0
+Uruguay,URY,2010,98.0
+Uruguay,URY,2011,98.0
+Uruguay,URY,2012,98.0
+Uruguay,URY,2013,98.0
+Uruguay,URY,2014,98.0
+Uruguay,URY,2015,99.0
+Uruguay,URY,2016,99.0
+Uruguay,URY,2017,99.0
+Uruguay,URY,2018,99.0
+Uruguay,URY,2019,99.0
+Uruguay,URY,2022,99.0
+Uzbekistan,UZB,2000,99.0
+Uzbekistan,UZB,2013,100.0
+Uzbekistan,UZB,2014,100.0
+Uzbekistan,UZB,2015,100.0
+Uzbekistan,UZB,2016,100.0
+Uzbekistan,UZB,2018,100.0
+Uzbekistan,UZB,2019,100.0
+Uzbekistan,UZB,2021,100.0
+Uzbekistan,UZB,2022,100.0
+Vanuatu,VUT,1979,53.0
+Vanuatu,VUT,1999,74.0
+Vanuatu,VUT,2023,87.96032
+Venezuela,VEN,1981,85.0
+Venezuela,VEN,1990,90.0
+Venezuela,VEN,2001,93.0
+Venezuela,VEN,2007,95.0
+Venezuela,VEN,2009,96.0
+Venezuela,VEN,2011,95.0
+Venezuela,VEN,2015,97.0
+Venezuela,VEN,2016,97.0
+Vietnam,VNM,1979,84.0
+Vietnam,VNM,1989,88.0
+Vietnam,VNM,1999,90.0
+Vietnam,VNM,2000,90.0
+Vietnam,VNM,2009,94.0
+Vietnam,VNM,2019,96.0
+Vietnam,VNM,2022,96.0
+Yemen,YEM,1994,37.0
+Zambia,ZMB,1990,65.0
+Zambia,ZMB,1999,68.0
+Zambia,ZMB,2002,69.0
+Zambia,ZMB,2010,83.0
+Zambia,ZMB,2018,71.1323
+Zimbabwe,ZWE,1982,78.0
+Zimbabwe,ZWE,1992,84.0
+Zimbabwe,ZWE,2019,93.22755
