@@ -10,7 +10,7 @@ The **Global Literacy & Education Trends** project is an end-to-end data analyti
   - `Data_sourcing.ipynb` & `Data_cleaning.ipynb`: Initial extraction, transformation, and cleaning of historical data.
   - `feature_engineering.ipynb`: Generates specialized aggregated metrics (e.g., 'GDP per Schooling Year', 'Education Index', 'Literacy Growth Rate', 'Gender Gap').
   - `eda_analysis.ipynb`: Conducts comprehensive Univariate and Bivariate analysis, complete with documented insights.
-  - `sql.ipynb` / `sql.md`: Database schema modeling, connection establishment, and exploratory SQL queries.
+  - `sql.ipynb`: Database schema modeling, connection establishment, and exploratory SQL queries.
 - **`src/`**: Contains the production-level code.
   - `app.py`: An interactive **Streamlit** dashboard that seamlessly connects to the MySQL backend to visualize demographic and economic disparities.
 - **`global_literacy_education_trends.pbix`**: A **Power BI** dashboard offering an alternative, highly interactive business intelligence perspective on the data.
@@ -21,7 +21,6 @@ The **Global Literacy & Education Trends** project is an end-to-end data analyti
 ### Prerequisites
 - Python 3.8 or higher
 - MySQL Server (running locally or remotely)
-- Power BI Desktop (optional, for viewing the `.pbix` dashboard)
 
 ### Setup & Installation
 
@@ -60,3 +59,8 @@ The Streamlit app features deep-dive insights including:
 - **Python Data Stack:** Pandas, Jupyter
 - **Database:** MySQL, SQLAlchemy, PyMySQL
 - **Visualization:** Streamlit, Plotly
+
+## Future Enhancements
+- Add more visualizations especially a BI Tool
+- Add more data sources
+- Add more features
